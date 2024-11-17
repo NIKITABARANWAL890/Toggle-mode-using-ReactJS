@@ -1,0 +1,52 @@
+[
+    {
+        "name": "Lovely Runner",
+        "id": "lovely-runner",
+        "img_url": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSHy8lspZPPSdhS86MhpqmOGdaGQKrkJAgqzA&s",
+        "rating": "9.8",
+        "description": "Im Sol travels back in time to prevent the tragic fate of her favorite star, Ryu.",
+        "cast": ["Kim Hye Yoon", "Byeon Woo Seok", "Song Geon Hee"],
+        "genre": ["Romantic Comedy", "Fantasy"],
+        "watch_url": "https://www.viki.com/tv/40466c-lovely-runner"
+    },
+    {
+        "name": "Stranger Things",
+        "id": "stranger-things",
+        "img_url": "https://c4.wallpaperflare.com/wallpaper/52/354/436/4k-stranger-things-wallpaper-preview.jpg",
+        "rating": "8.7",
+        "description": "A group of young friends witness supernatural forces and secret government exploits.",
+        "cast": ["Winona Ryder", "David Harbour", "Millie Bobby Brown"],
+        "genre": ["Drama", "Fantasy", "Horror"],
+        "watch_url": "https://www.netflix.com/title/80057281"
+    },
+    {
+        "name": "The Silent Sea",
+        "id": "the-silent-sea",
+        "img_url": "https://tse4.mm.bing.net/th?id=OIP.Qib784GVvydSRPGhb6PjYQHaHa&pid=Api&P=0&h=180",
+        "rating": "8.3",
+        "description": "In a dystopian future, a group embarks on a perilous mission to the moon.",
+        "cast": ["Gong Yoo", "Bae Doona", "Lee Joon"],
+        "genre": ["Sci-Fi", "Thriller"],
+        "watch_url": "https://www.netflix.com/title/81312901"
+    },
+    {
+        "name": "Money Heist",
+        "id": "money-heist",
+        "img_url": "https://tse4.mm.bing.net/th?id=OIP.DXe9qYK14IGf3DuWrTRwzwHaHa&pid=Api&P=0&h=180",
+        "rating": "8.3",
+        "description": "An unusual group of robbers attempt to carry out the most perfect heist in Spanish history.",
+        "cast": ["Álvaro Morte", "Úrsula Corberó", "Pedro Alonso"],
+        "genre": ["Crime", "Drama", "Thriller"],
+        "watch_url": "https://www.netflix.com/title/80192098"
+    },
+    {
+        "name": "The Witcher",
+        "id": "the-witcher",
+        "img_url": "https://tse3.mm.bing.net/th?id=OIP.KRTLVOBKxLZOKq8JhC9PWAHaJQ&pid=Api&P=0&h=180",
+        "rating": "8.2",
+        "description": "Geralt of Rivia, a solitary monster hunter, struggles to find his place in a world.",
+        "cast": ["Henry Cavill", "Anya Chalotra", "Freya Allan"],
+        "genre": ["Fantasy", "Action", "Adventure"],
+        "watch_url": "https://www.netflix.com/title/80189685"
+    }
+]

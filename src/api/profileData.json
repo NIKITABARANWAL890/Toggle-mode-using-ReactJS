@@ -1,0 +1,16 @@
+[
+    {
+        "id":1,
+        "name": "Bob",
+        "age": 30,
+        "msg":"Hi Bob, keep up the great work!",
+        "hobbies":"Gaming, Cooking"
+    },
+    {
+        "id":2,
+        "name": "Alice",
+        "age": 25,
+        "msg":"Hi Alice, keep up the great work!",
+        "hobbies":"Reading, Playing"
+    }
+]

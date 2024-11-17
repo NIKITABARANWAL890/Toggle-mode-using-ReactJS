@@ -1,0 +1,26 @@
+button{
+    background-color: rgba(255, 213, 0, 0.647);
+    color: black;
+}
+.g-div{
+    height: 200px;
+    width: 700px;
+    background-color: blue;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.p-div{
+    height: 70%;
+    width: 80%;
+    background-color: yellow;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.c-div{
+    height: 70%;
+    width: 80%;
+    background-color: red;
+    text-align: center;
+}
